@@ -1,8 +1,5 @@
 package com.twu.biblioteca;
 
-/**
- * Created by xuzhang on 3/5/15.
- */
 public class User {
     private String name;
     private String libraryNum;

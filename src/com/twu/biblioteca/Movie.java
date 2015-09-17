@@ -1,8 +1,6 @@
 package com.twu.biblioteca;
 
-/**
- * Created by xuzhang on 3/4/15.
- */
+
 public class Movie {
     private String name;
     private int year;

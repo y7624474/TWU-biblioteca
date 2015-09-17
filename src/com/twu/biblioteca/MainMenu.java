@@ -3,9 +3,7 @@ package com.twu.biblioteca;
 import com.twu.biblioteca.com.twu.biblioteca.util.Options;
 import com.twu.biblioteca.com.twu.biblioteca.util.StringUtils;
 
-/**
- * Created by xuzhang on 3/4/15.
- */
+
 public class MainMenu {
 
     public void show() {
