@@ -5,9 +5,7 @@ import com.twu.biblioteca.BibliotecaApp;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by xuzhang on 3/8/15.
- */
+
 public enum Options {
     SHOW_BOOK_LIST(1, ": Display Book List") {
         @Override

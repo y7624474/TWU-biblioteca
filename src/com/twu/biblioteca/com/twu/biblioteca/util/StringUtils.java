@@ -2,9 +2,7 @@ package com.twu.biblioteca.com.twu.biblioteca.util;
 
 import org.omg.CORBA.PUBLIC_MEMBER;
 
-/**
- * Created by xuzhang on 3/7/15.
- */
+
 public class StringUtils {
     public static final String WELCOME_MESSAGE = "welcome to use biblioteca";
 
